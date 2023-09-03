@@ -83,3 +83,8 @@ sfdx deploy
 ## Author(s)
 
 - [@millin-stripe](https://github.com/millin-stripe)
+  <a href="https://githubsfdeploy.herokuapp.com?owner=justinawhite1980&repo=salesforce-connector-examples/StripeLWCPayment">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
